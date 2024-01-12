@@ -1,4 +1,4 @@
-Kelompok 5 DPW SIFT06A
+Kelompok 5 DPW FT06A
 
 1.	2211103132	Izzan Annafi (Ketua)
 2.	2211103016	Kumara Galan Pramana
